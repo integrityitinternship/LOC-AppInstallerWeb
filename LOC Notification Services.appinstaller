@@ -1,30 +1,30 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
 	Uri="https://loc-appinstaller.azurewebsites.net/LOC Notification Services.appinstaller"
-	Version="1.0.5.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	Version="1.0.6.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainBundle
 		Name="15531JeremiahWilliamsSr.LOCDesktopNotificationServ"
-		Version="1.0.5.0"
-		Publisher="CN=jewilliams.loc.gov.LOC.Notificaion.Service"
-		Uri="https://loc-appinstaller.azurewebsites.net/LOC Notification Services_1.0.5.0_Test/LOC Notification Services_1.0.5.0_x64.msixbundle" />
+		Version="1.0.6.0"
+		Publisher="CN=DAA480E9-353A-458B-99DF-FD69336C41CF"
+		Uri="https://loc-appinstaller.azurewebsites.net/LOC Notification Services_1.0.6.0_Test/LOC Notification Services_1.0.6.0_x64.msixbundle" />
 	<Dependencies>
 		<Package
 			Name="Microsoft.NET.Native.Framework.2.2"
 			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
 			ProcessorArchitecture="x64"
-			Uri="https://loc-appinstaller.azurewebsites.net/LOC Notification Services_1.0.5.0_Test/Dependencies/x64/Microsoft.NET.Native.Framework.2.2.appx"
+			Uri="https://loc-appinstaller.azurewebsites.net/LOC Notification Services_1.0.6.0_Test/Dependencies/x64/Microsoft.NET.Native.Framework.2.2.appx"
 			Version="2.2.29512.0" />
 		<Package
 			Name="Microsoft.NET.Native.Runtime.2.2"
 			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
 			ProcessorArchitecture="x64"
-			Uri="https://loc-appinstaller.azurewebsites.net/LOC Notification Services_1.0.5.0_Test/Dependencies/x64/Microsoft.NET.Native.Runtime.2.2.appx"
+			Uri="https://loc-appinstaller.azurewebsites.net/LOC Notification Services_1.0.6.0_Test/Dependencies/x64/Microsoft.NET.Native.Runtime.2.2.appx"
 			Version="2.2.28604.0" />
 		<Package
 			Name="Microsoft.VCLibs.140.00"
 			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
 			ProcessorArchitecture="x64"
-			Uri="https://loc-appinstaller.azurewebsites.net/LOC Notification Services_1.0.5.0_Test/Dependencies/x64/Microsoft.VCLibs.x64.14.00.appx"
+			Uri="https://loc-appinstaller.azurewebsites.net/LOC Notification Services_1.0.6.0_Test/Dependencies/x64/Microsoft.VCLibs.x64.14.00.appx"
 			Version="14.0.30035.0" />
 	</Dependencies>
 	<UpdateSettings>
